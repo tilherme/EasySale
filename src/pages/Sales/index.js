@@ -23,7 +23,7 @@ export default function Sales() {
 
           <div className="info-sale">
             <Card title="Total">
-              <h1>R$ 10</h1>
+              <h1>R$ 22</h1>
             </Card>
           </div>
 
