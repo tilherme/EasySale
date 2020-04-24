@@ -17,6 +17,7 @@ export default function Login() {
           <form>
             <h1>Faça seu login</h1>
             <input type="text" placeholder="Seu usuário" />
+            <input type="password" placeholder="Sua senha" />
             <button className="button" type="submit">
               Entrar
             </button>

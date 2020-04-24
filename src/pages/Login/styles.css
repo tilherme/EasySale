@@ -40,6 +40,9 @@
   margin-top: 100px;
 }
 
+.login-container section.form form input{
+  margin-bottom: 6px;
+}
 
 .login-container section.form form h1{
   color: #565658;
