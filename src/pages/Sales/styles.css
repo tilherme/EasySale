@@ -41,3 +41,36 @@
 .sale-container .content .details .inputs{
   width: 100%;
 }
+
+.sale-container .content .details .inputs .input-group{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.sale-container .content .details .inputs .input-group input + input{
+  margin-left: 8px;
+  width: 100%;
+}
+
+.sale-container .content .details .inputs .input-group button{
+  width: 115px;
+  height: 30px;
+  background: #EB772A;
+  border: 0;
+  border-radius: 2px;
+  color: #fff;
+  font-weight: 700;
+  margin-left: 8px;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 30px;
+  transition: filter 0.2s;
+}
+
+.sale-container .content .details .inputs .input-group button:hover{
+  filter: brightness(92%);
+}
