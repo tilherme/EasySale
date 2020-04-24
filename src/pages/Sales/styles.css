@@ -1,0 +1,43 @@
+.sale-container {
+    color: #000;
+    width: 100%;
+    max-width: 1375px;
+    height: 85vh;
+    margin: 15px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sale-container .content{
+    width: 100%;
+    height: 100%;
+    padding: 30px 20px;
+    background: #f0f0f5;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+.sale-container .content .details{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+}
+
+.sale-container .content .details .info-sale{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  max-width: 350px;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.sale-container .content .details .inputs{
+  width: 100%;
+}
