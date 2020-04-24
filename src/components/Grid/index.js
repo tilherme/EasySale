@@ -12,73 +12,111 @@ export default function Grid() {
             <th>Descrição</th>
             <th>UN</th>
             <th>Quanitdade</th>
+            <th>% Desconto</th>
             <th>Preço</th>
+            <th>Total</th>
           </tr>
         </thead>
 
         <tbody>
           <tr>
-            <td>100</td>
-            <td>carro</td>
+            <td>01</td>
+            <td>Lapis</td>
             <td>1</td>
-            <td>1</td>
-            <td>R$ 5000,00</td>
-          </tr>
-          <tr>
-            <td>1</td>
-            <td>geladeira</td>
-            <td>3</td>
             <td>2</td>
-            <td>R$ 1500.00</td>
+            <td>0</td>
+            <td>R$ 1,00</td>
+            <td>R$ 2,00</td>
           </tr>
           <tr>
-            <td>100</td>
-            <td>carro</td>
+            <td>01</td>
+            <td>Lapis</td>
             <td>1</td>
-            <td>1</td>
-            <td>R$ 5000,00</td>
-          </tr>
-          <tr>
-            <td>1</td>
-            <td>geladeira</td>
-            <td>3</td>
             <td>2</td>
-            <td>R$ 1500.00</td>
+            <td>0</td>
+            <td>R$ 1,00</td>
+            <td>R$ 2,00</td>
           </tr>
           <tr>
-            <td>100</td>
-            <td>carro</td>
+            <td>01</td>
+            <td>Lapis</td>
             <td>1</td>
-            <td>1</td>
-            <td>R$ 5000,00</td>
-          </tr>
-          <tr>
-            <td>1</td>
-            <td>geladeira</td>
-            <td>3</td>
             <td>2</td>
-            <td>R$ 1500.00</td>
+            <td>0</td>
+            <td>R$ 1,00</td>
+            <td>R$ 2,00</td>
           </tr>
           <tr>
-            <td>100</td>
-            <td>carro</td>
+            <td>01</td>
+            <td>Lapis</td>
             <td>1</td>
-            <td>1</td>
-            <td>R$ 5000,00</td>
-          </tr>
-          <tr>
-            <td>1</td>
-            <td>geladeira</td>
-            <td>3</td>
             <td>2</td>
-            <td>R$ 1500.00</td>
+            <td>0</td>
+            <td>R$ 1,00</td>
+            <td>R$ 2,00</td>
           </tr>
           <tr>
-            <td>100</td>
-            <td>carro</td>
+            <td>01</td>
+            <td>Lapis</td>
             <td>1</td>
+            <td>2</td>
+            <td>0</td>
+            <td>R$ 1,00</td>
+            <td>R$ 2,00</td>
+          </tr>
+          <tr>
+            <td>01</td>
+            <td>Lapis</td>
             <td>1</td>
-            <td>R$ 5000,00</td>
+            <td>2</td>
+            <td>0</td>
+            <td>R$ 1,00</td>
+            <td>R$ 2,00</td>
+          </tr>
+          <tr>
+            <td>01</td>
+            <td>Lapis</td>
+            <td>1</td>
+            <td>2</td>
+            <td>0</td>
+            <td>R$ 1,00</td>
+            <td>R$ 2,00</td>
+          </tr>
+          <tr>
+            <td>01</td>
+            <td>Lapis</td>
+            <td>1</td>
+            <td>2</td>
+            <td>0</td>
+            <td>R$ 1,00</td>
+            <td>R$ 2,00</td>
+          </tr>
+          <tr>
+            <td>01</td>
+            <td>Lapis</td>
+            <td>1</td>
+            <td>2</td>
+            <td>0</td>
+            <td>R$ 1,00</td>
+            <td>R$ 2,00</td>
+          </tr>
+          <tr>
+            <td>01</td>
+            <td>Lapis</td>
+            <td>1</td>
+            <td>2</td>
+            <td>0</td>
+            <td>R$ 1,00</td>
+            <td>R$ 2,00</td>
+          </tr>
+          <tr>
+            <td>01</td>
+            <td>Lapis</td>
+            <td>1</td>
+            <td>2</td>
+            <td>0</td>
+            <td>R$ 1,00</td>
+            <td>R$ 2,00</td>
           </tr>
         </tbody>
 
